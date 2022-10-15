@@ -2,6 +2,6 @@ import { combineReducers } from "redux";
 import posts from './posts';
 
 export default combineReducers({
-    posts //posts:posts :- meaning posts:(posts reducer)
+    posts:posts //posts:posts :- meaning posts:(posts reducer)
 })
 

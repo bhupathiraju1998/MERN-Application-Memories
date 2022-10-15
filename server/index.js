@@ -1,5 +1,5 @@
 import express from 'express';
-import bodyParser from 'body-parser';
+import bodyParser from 'body-parser';//to make post request
 import mongoose from 'mongoose';
 import cors from 'cors';
 
